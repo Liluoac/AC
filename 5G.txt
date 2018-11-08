@@ -1,0 +1,5 @@
+config
+tdma station station-state active
+commit
+
+
